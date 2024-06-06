@@ -12,7 +12,7 @@
     height: 70px;
 }
 .container {
-    background-color:cornflowerblue;
+    background-color:rgb(170, 188, 221);
     display: flex;
     border-bottom: 2px solid black;
     height: 50vh;
@@ -34,4 +34,12 @@
 }
 .days {
     padding: 50px;
+}
+.footer-section {
+    display: flex;
+    background-color: rgb(139, 187, 171);
+    height: 70px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
 }
