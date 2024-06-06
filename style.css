@@ -11,3 +11,27 @@
     border:2px solid black;
     height: 70px;
 }
+.container {
+    background-color:cornflowerblue;
+    display: flex;
+    border-bottom: 2px solid black;
+    height: 50vh;
+    justify-content: space-around;
+    align-items:center
+    border:2px solid black;
+    
+    
+}
+.month {
+    padding: 30px;
+    border-right: 2px solid black;
+    height: 100%;
+}
+.content {
+    padding: 50px;
+    border-right: 2px solid black;
+    height: 100%;
+}
+.days {
+    padding: 50px;
+}
